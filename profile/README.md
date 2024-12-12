@@ -20,6 +20,8 @@ This idea comes from our concern that people are unaware of the environmental da
 
 ## Authors 👥
 
+Bangkit Team: C242-PS456
+
 | ID |  Name  | Learning Path |
 |:-----|:--------|------|
 | M008B4KY3362 | Nicolas Dwi Hardjoleksono | Machine Learning |
