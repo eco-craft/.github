@@ -7,6 +7,8 @@
 **EcoCraft** is an application designed to repurpose recyclable waste into practical crafts creatively. Users can discover a wide range of craft ideas by uploading photos of recyclable materials, which are then transformed into beautiful and functional crafts. 
 
 This idea comes from our concern that people are unaware of the environmental damage caused by littering, and few recognize that waste can be creatively repurposed rather than discarded.
+
+Theme: Sustainable Futures: Nurturing harmony between humanity and the environment.
 ## Features ✨
 
 - **Waste Type Detection**: Automatically identifies recyclable waste types using advanced detection algorithms.
